@@ -3,10 +3,10 @@
 </script>
 
 <svelte:head>
-  <title>Creator | Progate</title>
+  <title>Creator | BacaTech</title>
   <meta
     name="description"
-    content="Discover and explore the Progate Creator program, where you can build and share your own coding projects with the community."
+    content="Discover and explore the BacaTech Creator program, where you can build and share your own coding projects with the community."
   />
 </svelte:head>
 

@@ -12,7 +12,7 @@
   <title>Homepage | BacaTech</title>
   <meta
     name="description"
-    content="Progate is an online learning platform that offers various courses on programming, web development, and more."
+    content="BacaTech is an online learning platform that offers various courses on programming, web development, and more."
   />
 </svelte:head>
 <div>

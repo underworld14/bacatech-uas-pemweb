@@ -3,10 +3,10 @@
 </script>
 
 <svelte:head>
-  <title>Coming Soon | Progate</title>
+  <title>Coming Soon | BacaTech</title>
   <meta
     name="description"
-    content="Stay tuned for exciting updates and new features coming soon to Progate's online learning platform for programming, web development, and more."
+    content="Stay tuned for exciting updates and new features coming soon to BacaTech's online learning platform for programming, web development, and more."
   />
 </svelte:head>
 

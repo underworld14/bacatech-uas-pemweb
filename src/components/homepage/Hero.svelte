@@ -15,7 +15,7 @@
       class="text-2xl sm:text-3xl md:text-4xl xl:text-5xl"
     >
       Master <span class="text-[#FD8B19]">{"{Programming}"}</span>
-      at Your Own Pace with Progate's Knowledge Platform
+      at Your Own Pace with BacaTech's Knowledge Platform
     </h1>
     <p class="md:text-lg" data-aos="fade-right" data-aos-delay="100">
       {hero.subtitle}
@@ -33,7 +33,7 @@
     data-aos-delay="500"
     data-aos="fade-left"
     src={heroImg}
-    alt="Progate experience"
+    alt="BacaTech experience"
     class="mx-auto mt-14 md:mt-0 object-contain w-full max-w-[800px] md:max-w-[700px] lg:max-w-[500px] xl:max-w-[700px]"
   />
 </section>

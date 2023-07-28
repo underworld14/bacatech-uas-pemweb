@@ -11,10 +11,10 @@
 </script>
 
 <svelte:head>
-  <title>Forum | Progate</title>
+  <title>Forum | BacaTech</title>
   <meta
     name="description"
-    content="Join the Progate forum and engage in discussions with other learners about programming, web development, and more."
+    content="Join the BacaTech forum and engage in discussions with other learners about programming, web development, and more."
   />
 </svelte:head>
 
