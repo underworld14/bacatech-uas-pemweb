@@ -11,6 +11,10 @@
       href: "/forum",
       title: "Forum",
     },
+    {
+      href: "/about-us",
+      title: "About Us",
+    },
   ];
 
   let isOpen = false;
